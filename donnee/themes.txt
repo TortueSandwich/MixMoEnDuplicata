@@ -1,0 +1,10 @@
+anatomie
+animaux
+emotions
+instruments-musique
+metiers
+outils
+plantes
+qualites-defauts
+sports
+vetements

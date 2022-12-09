@@ -1,0 +1,48 @@
+\begin{tabular}{c||||c|c|c|c|c|c||||c}
+    &     &     &     &     &     &     &      \\ 
+    &C00 &C01 &C02 &C03 &C04 &C05 &\\ 
+    &     &     &     &     &     &     &      \\ 
+\hline 
+\hline 
+\hline 
+\hline 
+    &     &     &     &     &     &     &      \\ 
+L00 &     &     &     &  V  &     &     & L00 \\ 
+    &     &     &     &     &     &     &      \\ 
+\hline 
+    &     &     &     &     &     &     &      \\ 
+L01 &  E  &  S  &  S  &  A  &  I  &     & L01 \\ 
+    &     &     &     &     &     &     &      \\ 
+\hline 
+    &     &     &     &     &     &     &      \\ 
+L02 &     &  \fbox{\underline{E}}   &     &  L  &  \fbox{\underline{O}}  &  \fbox{\underline{I}}   & L02 \\ 
+    &     &     &     &     &     &     &      \\ 
+\hline 
+    &     &     &     &     &     &     &      \\ 
+L03 &     &  S  &  \fbox{O}  &  I  &  \fbox{N}  &    & L03 \\ 
+    &     &     &     &     &     &     &      \\ 
+\hline 
+    &     &     &     &     &     &     &      \\ 
+L04 &     &     &     &  D  &     &   & L04 \\ 
+    &     &     &     &     &     &     &      \\ 
+\hline 
+    &     &     &     &     &     &     &      \\ 
+L05 & \fbox{N}   
+          &  E  
+                &\fbox{\underline{P}} 
+                      &  E  
+                            &\fbox{\underline{S}} 
+                                  &     & L05 \\ 
+    &     &     &     &     &     &     &      \\ 
+\hline 
+    &     &     &     &     &     &     &      \\ 
+L06 &     &     &     &     &     &     & L06 \\ 
+    &     &     &     &     &     &     &      \\ 
+\hline 
+\hline 
+\hline 
+\hline 
+    &     &     &     &     &     &     &      \\ 
+    &C00 &C01 &C02 &C03 &C04 &C05 & \\
+    &     &     &     &     &     &     &      \\ 
+\end{tabular}
